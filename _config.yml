@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Martin Haugh"
+title                    : "田宽厚"
 title_separator          : "-"
-name                     : &name "Martin Haugh"
-description              : &description "Associate Professor of Analytics and Operations Research at Imperial College Business School"
-url                      : https://martin-haugh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "田宽厚"
+description              : &description "山东财经大学讲师"
+url                      : https://kuanhoutian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "martin-haugh.github.io"
+repository               : "kuanhoutian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Martin Haugh"
+  name             : "田宽厚"
   avatar           : "Haugh_Martin-Imperial.jpg"  #"profile.png"
-  bio              : "Associate Professor of Analytics and Operations Research at Imperial College Business School"
-  location         : "London, U.K."
+  bio              : "山东财经大学讲师"
+  location         : "山东, 济南"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en"
-  email            : "martin.b.haugh@gmail.com"
+  email            : "k.tian@sdufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
