@@ -32,14 +32,10 @@ In 2013 I was also awarded the Columbia Engineering School Alumni Association’
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).
 
 ## Contact Information
-ddd
-dddddd  
-dddddddd
 田宽厚  
-金融数学  
-数学与数量经济学院  
+数学与数量经济学院   
 山东财经大学   
-山东省济南市舜耕路40号  
+山东省济南市舜耕路40号    
 山东, 济南   
 250014         
 电话：0531-82617651    
