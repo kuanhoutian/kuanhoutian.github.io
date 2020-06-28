@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "微积分 I"
-permalink:  /teaching/calculus-I/
+permalink:  /teaching/微积分-I/
 author_profile: true
 ---
-第一学期的课件
+微积分I课件
 <!---
 内容隐藏
 --->
