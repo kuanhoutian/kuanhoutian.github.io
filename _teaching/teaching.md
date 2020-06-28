@@ -15,24 +15,24 @@ author_profile: true
 
 I have taught the following courses for the MSFE and MSOR programs in the IE & OR Department at Columbia University. Course material in some instances can be found by following the corresponding link.
 
-* 微积分 I     [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/calculus-I)  
 
-* 微积分 II     [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/calculus-I)  
 
-* 高等数学 I     [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/calculus-I)  
 
-* 高等数学 II     [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/calculus-I)  
 
-* 概率论与数理统计      [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/calculus-I)  
 
 
 ### 留学生课程
 
-* Calculus I     [Calculus I](/teaching/calculus-I)  
+* [Calculus I](/teaching/calculus-I)  
 
-* Calculus II     [Calculus II](/teaching/calculus-I)  
+* [Calculus II](/teaching/calculus-I)  
 
-* Probability and Statistics     [Probability and Statistics](/teaching/calculus-I)  
+* [Probability and Statistics](/teaching/calculus-I)  
 
 
 
