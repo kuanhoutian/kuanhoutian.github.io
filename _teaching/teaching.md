@@ -15,9 +15,9 @@ author_profile: true
 
 I have taught the following courses for the MSFE and MSOR programs in the IE & OR Department at Columbia University. Course material in some instances can be found by following the corresponding link.
 
-* [微积分I](/teaching/calculus-I)  
+* [微积分I](/teaching/微积分-I)  
 
-* [微积分II](/teaching/calculus-I)  
+* [微积分II](/teaching/微积分-II)  
 
 * [高等数学 I](/teaching/calculus-I)  
 
