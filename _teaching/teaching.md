@@ -17,13 +17,13 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 
 * [微积分I](/teaching/calculus-I)  
 
-* [微积分I](/teaching/calculus-I)  
+* [微积分II](/teaching/calculus-I)  
 
-* [微积分I](/teaching/calculus-I)  
+* [高等数学 I](/teaching/calculus-I)  
 
-* [微积分I](/teaching/calculus-I)  
+* [高等数学 II](/teaching/calculus-I)  
 
-* [微积分I](/teaching/calculus-I)  
+* [概率论与数理统计](/teaching/calculus-I)  
 
 
 ### 留学生课程
