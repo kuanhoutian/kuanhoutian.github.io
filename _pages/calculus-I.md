@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "IEOR E4525: Machine Learning for OR & FE"
-permalink:  /teaching/ml-orfe/
+title: "微积分 I1"
+permalink:  /teaching/calculus-I/
 author_profile: true
 ---
+哈哈哈
 
 I last taught this advanced-level MS course in spring 2017 in the IE&OR Department at Columbia University.
 It's an elective course for the MS in Financial Engineering and MS in Operations Research programs at Columbia.
