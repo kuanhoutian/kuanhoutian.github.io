@@ -27,10 +27,17 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 ### 第一章·函数与极限
 
 1.1. [第一节·数集与函数](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_1.pdf)
-1.2. [第二节·数列的极限](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_2.pdf) (Linear regression, bias-variance decomposition)
-1.3. [第三节·函数的极限](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_3.pdf) (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
-1.4. [第四节·无穷小量与无穷大量](https://martin-haugh.github.io/files/wjf_1_4.pdf) (Bootstrap; cross-validation)
-1.5. [第五节·两个重要极限](https://martin-haugh.github.io/files/wjf_1_5.pdf) (Subset selection, ridge regression, Lasso etc.)
+
+1.2. [第二节·数列的极限](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_2.pdf)
+
+1.3. [第三节·函数的极限](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_3.pdf)
+
+1.4. [第四节·无穷小量与无穷大量](https://martin-haugh.github.io/files/wjf_1_4.pdf)
+
+1.5. [第五节·两个重要极限](https://martin-haugh.github.io/files/wjf_1_5.pdf)
+
 1.6. [第六节·无穷小量的比较](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_6.pdf)
+
 1.7. [第七节·函数的连续性](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_7.pdf)
+
 1.8. [第八节·闭区间上连续函数](https://martin-haugh.github.io/files/wjf_1_8.pdf)
