@@ -18,6 +18,7 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 * [微积分I](/teaching/微积分-I)  
 
 * [微积分II](/teaching/微积分-II)  
+
 <!---
 * [高等数学 I](/teaching/calculus-I)  
 
@@ -34,10 +35,7 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 
 * [Probability and Statistics](/teaching/calculus-I)  
 
---->
 
-
-<!---
 * IEOR E4525  [Machine Learning for OR and FE](/teaching/ml-orfe)  
               (Last taught in spring 2017)
 * IEOR E4703  [Monte Carlo Simulation](/teaching/monte-carlo)    
