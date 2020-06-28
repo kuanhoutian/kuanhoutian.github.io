@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "教学"
 permalink: /teaching/
 author_profile: true
 ---
@@ -17,6 +17,27 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 
 * 微积分 I     [微积分I](/teaching/calculus-I)  
 
+* 微积分 II     [微积分I](/teaching/calculus-I)  
+
+* 高等数学 I     [微积分I](/teaching/calculus-I)  
+
+* 高等数学 II     [微积分I](/teaching/calculus-I)  
+
+* 概率论与数理统计      [微积分I](/teaching/calculus-I)  
+
+
+### 留学生课程
+
+* Calculus I     [Calculus I](/teaching/calculus-I)  
+
+* Calculus II     [Calculus II](/teaching/calculus-I)  
+
+* Probability and Statistics     [Probability and Statistics](/teaching/calculus-I)  
+
+
+
+
+<!---
 * IEOR E4525  [Machine Learning for OR and FE](/teaching/ml-orfe)  
               (Last taught in spring 2017)
 * IEOR E4703  [Monte Carlo Simulation](/teaching/monte-carlo)    
@@ -33,3 +54,4 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
               (Last taught in fall 2013)
 * IEOR E4710  Term Structure Models   
               (Last taught in spring 2012)
+--->
