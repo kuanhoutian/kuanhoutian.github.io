@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "教学"
+title: "教学1"
 permalink: /teaching/
 author_profile: true
 ---
