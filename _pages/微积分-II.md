@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "微积分 I"
+title: "微积分 II"
 permalink:  /teaching/微积分-II/
 author_profile: true
 ---
