@@ -27,10 +27,15 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 ### Lecture Slides (and Occasional Notes)
 
 1.1. [Very Brief Introduction to Machine Learning](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_1.pdf)
+
 1.2. [Regression I](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_2.pdf) (Linear regression, bias-variance decomposition)
-1.3. [Classification I](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_3.pdf) (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
-1.4. [Resampling Methods](https://martin-haugh.github.io/files/wjf_1_4.pdf) (Bootstrap; cross-validation)
-1.5. [Regression II](https://martin-haugh.github.io/files/wjf_1_5.pdf) (Subset selection, ridge regression, Lasso etc.)
+
+1.3. [Classification I](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_3.pdf)
+
+1.4. [Resampling Methods](https://martin-haugh.github.io/files/wjf_1_4.pdf)
+
+1.5. [Regression II](https://martin-haugh.github.io/files/wjf_1_5.pdf)
+
 1.6. [Clustering](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_6.pdf)
 1.7. [Clustering](https://martin-haugh.github.io/files/Calculus_CN/wjf_1_7.pdf)
-1.8. [Support Vector Machines](https://martin-haugh.github.io/files/wjf_1_8.pdf)
+1.8. [Support Vector Machines](https://martin-haugh.github.io/files/wjf_1_8.pdf)  
