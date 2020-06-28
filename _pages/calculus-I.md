@@ -39,11 +39,11 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 
 ### 第三章·导数的应用
 
-3.1. [第一节·微分中值定理](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_1.pdf)  3.2. [第二节·洛必达法则](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_2.pdf)  
-3.3. [第三节·泰勒公式](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_3.pdf)    3.4. [第四节·函数的极值与最值](https://kuanhoutian.github.io/files/wjf_2_4.pdf)  
-3.5. [第五节·函数的单调性与曲线的凹 凸性](https://kuanhoutian.github.io/files/wjf_2_5.pdf)  3.6. [第六节·函数图形的描绘](https://kuanhoutian.github.io/files/Calculus_CN/wjf_1_6.pdf)      
+3.1. [第一节·微分中值定理](https://kuanhoutian.github.io/files/Calculus_CN/wjf_3_1.pdf)  3.2. [第二节·洛必达法则](https://kuanhoutian.github.io/files/Calculus_CN/wjf_3_2.pdf)  
+3.3. [第三节·泰勒公式](https://kuanhoutian.github.io/files/Calculus_CN/wjf_3_3.pdf)    3.4. [第四节·函数的极值与最值](https://kuanhoutian.github.io/files/wjf_3_4.pdf)  
+3.5. [第五节·函数的单调性与曲线的凹 凸性](https://kuanhoutian.github.io/files/wjf_3_5.pdf)  3.6. [第六节·函数图形的描绘](https://kuanhoutian.github.io/files/Calculus_CN/wjf_3_6.pdf)      
 
 ### 第四章·不定积分
 
-4.1. [第一节·不定积分的概念](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_1.pdf)  4.2. [第二节·有理分式的积分](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_2.pdf)  
-4.3. [第三节·换元积分法](https://kuanhoutian.github.io/files/Calculus_CN/wjf_2_3.pdf)  4.4. [第四节·分部积分法](https://kuanhoutian.github.io/files/wjf_2_4.pdf)   
+4.1. [第一节·不定积分的概念](https://kuanhoutian.github.io/files/Calculus_CN/wjf_4_1.pdf)  4.2. [第二节·有理分式的积分](https://kuanhoutian.github.io/files/Calculus_CN/wjf_4_2.pdf)  
+4.3. [第三节·换元积分法](https://kuanhoutian.github.io/files/Calculus_CN/wjf_4_3.pdf)  4.4. [第四节·分部积分法](https://kuanhoutian.github.io/files/wjf_4_4.pdf)   
