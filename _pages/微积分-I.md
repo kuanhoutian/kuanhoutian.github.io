@@ -4,7 +4,7 @@ title: "微积分 I"
 permalink:  /teaching/微积分-I/
 author_profile: true
 ---
-微积分I课件
+微积分I课件.
 <!---
 内容隐藏
 --->
