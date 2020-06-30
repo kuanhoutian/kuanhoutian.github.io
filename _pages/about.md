@@ -13,13 +13,18 @@ redirect_from:
 ## 学术研究
 1. **随机偏微分方程**  <!---<br/>  <font size = "-1"> </font>  --->   
 
-
 2. **随机微分方程**  
+
 
 我的学术论文都在[这里](/publications).
 
-## 授课内容
+## 参与项目
 主要分两部分, 一部分是[中文授课](/teaching), 另一部分是[英文授课](/teaching).
+
+## 授课内容
+1. **《随机环境下银行业系统性风险变化研究—基于外部冲击的风险溢出视角》（国自科青年项目71803097）**  <!---<br/>  <font size = "-1"> </font>  --->   
+
+2. **《房价校正指数的统计研究》（山东省社科青年项目19DTJJ02）**  
 
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the TEaching Excellence Award for Core Module MBA teaching.
