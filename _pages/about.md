@@ -18,7 +18,7 @@ redirect_from:
 My research papers can be found [here](/publications).
 
 ## Teaching
-主要分两部分, 一部分是中文授课(/teaching), 另一部分是英文授课(/teaching).
+主要分两部分, 一部分是[中文授课](/teaching), 另一部分是[英文授课](/teaching).
 
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the TEaching Excellence Award for Core Module MBA teaching.
