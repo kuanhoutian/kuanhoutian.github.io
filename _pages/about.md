@@ -11,9 +11,10 @@ redirect_from:
 关于我的个人介绍,还没想好怎么写.
 
 ## Research
-1. **Stochstics Partial differential equations**  <!---<br/>  <font size = "-1"> </font>  
-    Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization.--->   
+1. **Stochstics Partial differential equations**  <!---<br/>  <font size = "-1"> </font>  --->   
 
+
+2. **Stochastic differential equations**  
 
 My research papers can be found [here](/publications).
 
