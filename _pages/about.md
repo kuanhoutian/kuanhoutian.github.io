@@ -11,12 +11,12 @@ redirect_from:
 关于我的个人介绍,还没想好怎么写.
 
 ## 学术研究
-1. **Stochstics Partial differential equations**  <!---<br/>  <font size = "-1"> </font>  --->   
+1. **随机偏微分方程**  <!---<br/>  <font size = "-1"> </font>  --->   
 
 
-2. **Stochastic differential equations**  
+2. **随机微分方程**  
 
-My research papers can be found [here](/publications).
+我的学术论文都在[这里](/publications).
 
 ## 授课内容
 主要分两部分, 一部分是[中文授课](/teaching), 另一部分是[英文授课](/teaching).
