@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  教学:
     output: true
     permalink: /:collection/:path/
-  publications:
+  论文:
     output: true
     permalink: /:collection/:path/
   portfolio:
