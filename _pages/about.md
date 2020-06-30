@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+我本科就读于[伯明翰大学](https://www.birmingham.ac.uk/)数学专业, 研究生就读于[拉夫堡大学](https://www.lboro.ac.uk/)金融数学专业, 以博士学位毕业.
 
-关于我的个人介绍,还没想好怎么写.
 
 ## 学术研究
 1. **随机偏微分方程**  <!---<br/>  <font size = "-1"> </font>  --->   
