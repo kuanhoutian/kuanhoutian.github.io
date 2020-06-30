@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我本科就读于[伯明翰大学](https://www.birmingham.ac.uk/)数学专业, 研究生就读于[拉夫堡大学](https://www.lboro.ac.uk/)金融数学专业, 以博士学位毕业.
+我本科就读于[伯明翰大学](https://www.birmingham.ac.uk/)数学专业, 研究生就读于[拉夫堡大学](https://www.lboro.ac.uk/)金融数学专业, 在此获得博士学位毕业.
 
 
 ## 学术研究
