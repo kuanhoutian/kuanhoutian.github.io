@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "关于我"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 关于我的个人介绍,还没想好怎么写.
 
-## Research
+## 学术研究
 1. **Stochstics Partial differential equations**  <!---<br/>  <font size = "-1"> </font>  --->   
 
 
@@ -18,7 +18,7 @@ redirect_from:
 
 My research papers can be found [here](/publications).
 
-## Teaching
+## 授课内容
 主要分两部分, 一部分是[中文授课](/teaching), 另一部分是[英文授课](/teaching).
 
 <!---
@@ -28,7 +28,7 @@ In 2013 I was also awarded the Columbia Engineering School Alumni Association’
 ## External Service
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).--->
 
-## Contact Information
+## 联系方式
 田宽厚  
 数学与数量经济学院   
 山东财经大学   
