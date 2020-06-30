@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "田宽厚1"
+title                    : "田宽厚"
 title_separator          : "-"
 name                     : &name "田宽厚"
 description              : &description "山东财经大学讲师"
@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  教学:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  论文:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
