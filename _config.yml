@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "田老师的个人主页"
+title                    : "个人主页"
 title_separator          : "-"
 name                     : &name "田宽厚"
-description              : &description "山东财经大学讲师"
+description              : &description "田老师的个人主页"
 url                      : https://kuanhoutian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuanhoutian.github.io"
@@ -55,6 +55,13 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# SNS settings
+RSS: false
+QQ_username:     304030277
+zhihu_username:     username
+github_username:    username
+facebook_username:  username
+jianshu_username:	jianshu_id
 # Social Sharing
 twitter:
   username               : &twitter
