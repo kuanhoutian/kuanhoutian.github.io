@@ -19,6 +19,8 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 
 * [微积分II](/teaching/微积分-II)  
 
+* [概率论与数理统计](/teaching/概率统计)  
+
 <!---
 * [高等数学 I](/teaching/calculus-I)  
 
