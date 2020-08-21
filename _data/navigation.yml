@@ -3,7 +3,7 @@ main:
   - title: "教学"
       url:/teaching/
 
-  - title: 论文
+  - title: "论文"
     url:/publications/
 
   #- title: "Talks"
