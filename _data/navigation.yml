@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "jiaoxue"
-      url: /teaching/
+  - title:"教学"
+      url:/teaching/
 
-  - title: "lunwen"
-    url: /publications/
+  - title:"论文"
+    url:/publications/
 
   #- title: "Talks"
     #url: /talks/
