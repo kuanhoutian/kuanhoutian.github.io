@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "个人主页"
+title                    : "个人主页1"
 title_separator          : "-"
 name                     : &name "Kuanhou Tian"
 description              : &description "田老师的个人主页"
