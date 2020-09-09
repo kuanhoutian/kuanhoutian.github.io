@@ -21,6 +21,7 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
 
 * [概率论与数理统计](/teaching/概率统计)  
 
+* [Probability & Mathematical Statistics](/teaching/Probability)  
 <!---
 * [高等数学 I](/teaching/calculus-I)  
 
