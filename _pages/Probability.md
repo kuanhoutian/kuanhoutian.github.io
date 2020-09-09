@@ -11,17 +11,23 @@ Lecture Notes
 
 ### Part 1. Discrete Random Variables
 
-Chapter 1·[Combinatorics](https://kuanhoutian.github.io/files/Probability_EN/ch1.pdf)
+Chapter 1·[Combinatorics](https://kuanhoutian.github.io/files/Probability_EN/ch1.pdf) [Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
 
-Chapter 2·[The probability set-up](https://kuanhoutian.github.io/files/Probability_EN/ch2.pdf)
 
-Chapter 3·[Independence](https://kuanhoutian.github.io/files/Probability_EN/ch3.pdf)
+Chapter 2·[The probability set-up](https://kuanhoutian.github.io/files/Probability_EN/ch2.pdf)[Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
 
-Chapter 4·[Conditional probability](https://kuanhoutian.github.io/files/Probability_EN/ch4.pdf)
 
-Chapter 5·[Discrete random variables](https://kuanhoutian.github.io/files/Probability_EN/ch5.pdf)
+Chapter 3·[Independence](https://kuanhoutian.github.io/files/Probability_EN/ch3.pdf)[Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
 
-Chapter 6·[Some discrete distributions](https://kuanhoutian.github.io/files/Probability_EN/ch6.pdf)
+
+Chapter 4·[Conditional probability](https://kuanhoutian.github.io/files/Probability_EN/ch4.pdf)[Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
+
+
+Chapter 5·[Discrete random variables](https://kuanhoutian.github.io/files/Probability_EN/ch5.pdf)[Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
+
+
+Chapter 6·[Some discrete distributions](https://kuanhoutian.github.io/files/Probability_EN/ch6.pdf)[Quiz 1](https://kuanhoutian.github.io/files/Probability_EN/Quiz-01-f19.pdf)
+
 
 ### Part 2. Continuous random variables
 
