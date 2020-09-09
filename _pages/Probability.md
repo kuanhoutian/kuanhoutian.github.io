@@ -47,4 +47,4 @@ Chapter 12·[Expectations](https://kuanhoutian.github.io/files/Probability_EN/ch
 
 Chapter 13·[Moment generating functions](https://kuanhoutian.github.io/files/Probability_EN/ch13.pdf) Quiz 13·[Quiz 13](https://kuanhoutian.github.io/files/Probability_EN/Quiz-13-f19.pdf)
 
-Chapter 14·[Limit laws and modes of convergence](https://kuanhoutian.github.io/files/Probability_EN/ch14.pdf) Quiz 14·[Quiz 14](https://kuanhoutian.github.io/files/Probability_EN/Quiz-14-f19.pdf)
+Chapter 14·[Limit laws and modes of convergence](https://kuanhoutian.github.io/files/Probability_EN/ch14.pdf) Quiz 14·[Quiz 14](https://kuanhoutian.github.io/files/Probability_EN/Quiz-14-f18.pdf)
