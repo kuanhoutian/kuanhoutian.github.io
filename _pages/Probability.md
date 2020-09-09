@@ -4,7 +4,7 @@ title: "Probability & Mathematical Statistics"
 permalink:  /teaching/Probability/
 author_profile: true
 ---
-概率论与数理统计课件.
+Lecture Notes
 <!---
 内容隐藏
 --->
