@@ -35,7 +35,7 @@ Chapter 7·[Continuous distributions](https://kuanhoutian.github.io/files/Probab
 
 Chapter 8·[Normal distribution](https://kuanhoutian.github.io/files/Probability_EN/ch8.pdf)
 
-Chapter 9·[Normal approximation to the binomial](https://kuanhoutian.github.io/files/Probability_EN/ch9.pdf) Quiz 9·[Quiz 9](https://kuanhoutian.github.io/files/Probability_EN/Quiz-8-9-f19.pdf)
+Chapter 9·[Normal approximation to the binomial](https://kuanhoutian.github.io/files/Probability_EN/ch9.pdf) Quiz 8-9·[Quiz 8-9](https://kuanhoutian.github.io/files/Probability_EN/Quiz-8-9-f19.pdf)
 
 Chapter 10·[Some continuous distributions](https://kuanhoutian.github.io/files/Probability_EN/ch10.pdf) Quiz 10·[Quiz 10](https://kuanhoutian.github.io/files/Probability_EN/Quiz-10-f19.pdf)
 
